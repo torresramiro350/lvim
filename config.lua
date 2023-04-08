@@ -98,7 +98,6 @@ linters.setup {
   --   },
 }
 
-
 -- -- Autocommands (`:help autocmd`) <https://neovim.io/doc/user/autocmd.html>
 vim.api.nvim_create_autocmd("FileType", {
   pattern = "zsh",
