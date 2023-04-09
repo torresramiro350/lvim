@@ -38,7 +38,8 @@ lvim.builtin.which_key.mappings["P"] = { "<cmd>Telescope projects<CR>", "Project
 -- lvim.colorscheme = "bluloco"
 -- lvim.colorscheme = "vscode"
 -- lvim.colorscheme = "darkplus"
-lvim.colorscheme = "kanagawa"
+-- lvim.colorscheme = "kanagawa"
+lvim.colorscheme = "dracula"
 
 lvim.builtin.alpha.active = true
 lvim.builtin.alpha.mode = "dashboard"

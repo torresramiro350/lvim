@@ -8,6 +8,7 @@ require("lvim.lsp.manager").setup("clangd", opts)
 M.config = function()
   -- local configs = require("user.plugin-configs")
   lvim.plugins = {
+    { "Mofiqul/dracula.nvim" },
     {
       "abecodes/tabout.nvim",
       config = function()
